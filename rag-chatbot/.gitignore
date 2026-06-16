@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+outputs/chroma_db/
+data/sample_docs/*.pdf
+.streamlit/
